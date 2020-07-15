@@ -96,7 +96,7 @@ ggplotly(p3)
 
 
 
-### Owns Car
+### Density plot for target variable
 
 ```{r}
 p4<- data %>%
