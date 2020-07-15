@@ -23,7 +23,6 @@ library(ggvis)
 
 
 ```{r}
-setwd("~/Desktop/Sneha/home-credit-default-risk/Done/OG Data")
 data<-read.csv("application_train.csv")
 ```
 
